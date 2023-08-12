@@ -1,0 +1,18 @@
+main{
+  display: flex;
+}
+nav{
+  width: 50%;
+  height: 130px;
+  background: #104CB0;
+  display: flex;
+  align-items: center;
+  padding-left: 100px;
+}
+nav > img{
+  width: 175px;
+}
+.flag{
+  width: 20px;
+  margin-left: 100px;
+}
