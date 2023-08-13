@@ -15,17 +15,7 @@ function Header() {
             <button className='btn'><a href="https://fluggi.uz/wp-content/uploads/2023/07/FLUGGI_GROUP_%D0%9C%D0%90%D0%A0%D0%9A%D0%95%D0%A2%D0%98%D0%9D%D0%93_%D0%94%D0%9B%D0%AF_%D0%9F%D0%9E%D0%9B%D0%9D%D0%9E%D0%93%D0%9E_%D0%A1%D0%9F%D0%95%D0%9A%D0%A2%D0%A0%D0%90.pdf">Get it now!</a></button>
             <div className="rectangle"></div>
         </div>
-        <div className="imgs">
-            <div className="img1">
-            <img src="https://fluggi.uz/wp-content/uploads/2023/01/insurance4everyone-hero1.jpg" alt="" />
-            <img src="https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
-            </div>
-            <div className="img">
-            <img src="https://fluggi.uz/wp-content/uploads/2023/01/insurance4everyone-hero2.jpg" alt="" />
-            <img src="https://fluggi.uz/wp-content/uploads/2023/01/insurance4everyone-hero3.jpg" alt="" />
-            </div>
-          
-        </div>
+       
     </div>
   )
 }
