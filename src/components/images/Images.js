@@ -3,8 +3,8 @@ import './Images.css'
 
 function Images() {
   return (
-    <div className='images'>
-        
+    <div className='images1'>
+
     </div>
   )
 }
