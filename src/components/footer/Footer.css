@@ -1,0 +1,44 @@
+.footer{
+    width: 100%;
+    height: 250px;
+    margin-top: 50px;
+    background: #022D2F;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.contact{
+    width: 250px;
+}
+.icons-itfy{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+svg{
+    font-size: 24px;
+    color: white;
+}
+.phone{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.phone p{
+    color: white;
+    margin-left: 10px;
+    font-size: 18px;
+}
+.email{
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+.email p{
+    color: white;
+    margin-left: 10px;
+    font-size: 18px;
+}
+.about{
+    color: white;
+}

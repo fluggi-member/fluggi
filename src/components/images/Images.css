@@ -1,6 +1,98 @@
 .images1{
     width: 100%;
-    height: 100vh;
-    background: red;
+    height: 120vh;
+    /* background: red; */
     margin-top: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.in{
+    width: 95%;
+    height: 90%;
+    /* background: blue; */
+    display: flex;
+}
+.five{
+    width: 300px;
+    height: 550px;
+    /* background: green; */
+    overflow: hidden;
+}
+.five img{
+    width: 300px;
+    height: 270px;
+    object-fit: cover;
+}
+.five > p{
+    color: #303030;
+}
+.six{
+    width: 100%;
+    height: 100px;
+    /* background: #000; */
+    display: flex;
+    align-items: center;
+}
+.six img{
+    width: 60px;
+    height: 60px;
+}
+.six > p{
+    font-size: 25px;
+    margin-left: 20px;
+    font-weight: normal;
+    /* color: wheat; */
+}
+.happy{
+    width: 580px;
+    /* background: green; */
+}
+.customers{
+    width: 100%;
+    height: 270px;
+    background: #4551BF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.customers h1{
+    color: white;
+    font-weight: 600;
+    font-size: 80px;
+    text-align: center;
+}
+.pink{
+    width: 580px;
+    height: 270px;
+    background: #E5A4A2;
+}
+.rectangle1{
+    width: 130px;
+    height: 270px;
+    background: #E5C932;
+}
+.card{
+    width: 400px;
+    height: 600px;
+    /* background: blue; */
+}
+.card > img{
+    width: 400px;
+}
+.texts > p{
+    width: 370px;
+    font-size: 18px;
+}
+.icon-p{
+    display: flex;
+    gap: 10px;
+}
+.icon-p > img{
+    width: 65px;
+    object-fit: cover;
+}
+.icon-p > p{
+    font-size: 22px;
+    font-weight: 500;
 }

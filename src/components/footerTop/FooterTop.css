@@ -1,0 +1,39 @@
+.FooterTop{
+    width: 100%;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.logo{
+    width: 80%;
+    height: 100%;
+}
+.logo1 > img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.logo1{
+    width: 210px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo1 > p{
+    font-size: 22px;
+}
+.images11{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+}
+.images11 > img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+}
